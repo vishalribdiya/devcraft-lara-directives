@@ -1,6 +1,7 @@
 {
     "name": "dev-craft/lara-directives",
     "description": "Short laravel directories that requires less code and give you much functionality.",
+    "license": "MIT",
     "authors": [
         {
             "name": "DevCraft",
