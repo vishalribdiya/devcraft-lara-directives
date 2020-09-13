@@ -48,4 +48,12 @@ now if `$user` has `created_at` property and i want to display it i will write b
 
 Its also supporting nested properties so you will use that too.
 
-`@time(user.address.created_at` 
+`@time(user.address.created_at)` 
+
+
+### @human_time
+It will return the human readable time from given datetime. e.g `1 minute ago`
+
+```
+@human_time(object.property)
+```
