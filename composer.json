@@ -18,6 +18,5 @@
                 "DevCraft\\Directives\\DevcraftBladeServiceProvider"
             ]
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
