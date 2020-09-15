@@ -3,6 +3,8 @@ Laravel directivies which give you more functionality by using just short line o
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
+https://img.shields.io/github/issues/vishalribdiya/devcraft-lara-directives
+
 ## Installation
 
 You can install the package via composer:
