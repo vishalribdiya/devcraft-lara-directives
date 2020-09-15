@@ -15,7 +15,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "DevCraft\\Directives\\DevcraftBladeServiceProvider"
+                "DevCraft\\Directives\\Src\\DevcraftBladeServiceProvider"
             ]
         }
     }
