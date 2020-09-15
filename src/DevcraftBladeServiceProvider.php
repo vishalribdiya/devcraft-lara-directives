@@ -1,6 +1,6 @@
 <?php
 
-namespace DevCraft\Src;
+namespace DevCraft\Directives\Src;
 
 use Illuminate\Support\Facades\Blade;
 use Illuminate\Support\ServiceProvider;
