@@ -2,6 +2,7 @@
 Laravel directivies which give you more functionality by using just short line of code.
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
+[![Github All Releases](https://img.shields.io/github/downloads/vishalribdiya/devcraft-lara-directives/total.svg)](https://github.com/vishalribdiya/devcraft-lara-directives)
 [![Open Issues](https://img.shields.io/github/issues/vishalribdiya/devcraft-lara-directives)](https://github.com/vishalribdiya/devcraft-lara-directives/issues)
 
 ## Installation
