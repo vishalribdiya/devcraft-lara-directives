@@ -1,6 +1,7 @@
 # Laravel Directives 
 Laravel directivies which give you more functionality by using just short line of code.
 
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
 ## Installation
 
